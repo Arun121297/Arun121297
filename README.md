@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arun121297
+- 👋 Hi, I’m @Arun
 - 👀 I’m interested in being a fullstack developer
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on backend
