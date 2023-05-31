@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/364116/screenshots/1899338/media/eec1961f07ec63787115fc1226c63fad.gif" width="250"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYxNzM0NTVlMmVlODBlZjViNTRjY2U4YmQyZWU3M2E0MTQ2ZmJhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 <div id="hesders">
   <div id="badges">
     <a href="https://www.linkedin.com/in/arun-nk-24877723a">
