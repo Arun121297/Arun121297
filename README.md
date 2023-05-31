@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYxNzM0NTVlMmVlODBlZjViNTRjY2U4YmQyZWU3M2E0MTQ2ZmJhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 <div id="hesders">
   <div id="badges">
-    <a href=" ">
+    <a href="https://www.linkedin.com/in/arun-nk-24877723a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href=" ">
+    <a href="https://twitter.com/TweetArun1297?t=Q6FKiwGN92bC0sKkvOkkfA&s=09">
       <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href=" ">
+    <a href="https://instagram.com/_karthi_fz_?igshid=MzNlNGNkZWQ4Mg==">
       <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 <h1 align="center">Hi 👋, I'm Arun</h1>
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Flutter projects**
 
-- 👨‍💻 All of my projects are available at  
+- 👨‍💻 All of my projects are available at  @Arun121297
 
 - 📫 How to reach me **arunkarthi.nk12@gmail.com**
     
